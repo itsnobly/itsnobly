@@ -1,8 +1,10 @@
 <div align="center">
 
-# Привет 👋 Я Иван (PalladionX)
+# Hi there 👋 I'm Ivan (PalladionX)
 
 ### Junior Full-Stack Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vcenter=true&width=500&lines=Junior+Full-Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -17,46 +19,46 @@
 
 ---
 
-### 🗣️ Обо мне
+### 🗣️ About Me
 
-* 🎓 Занимаюсь веб-разработкой, фокусируюсь на создании современных full-stack приложений.
-* 🚀 Активно изучаю и углубляю знания в **Next.js, TypeScript, PHP/Laravel, архитектуре REST API и оптимизации баз данных**.
-* 🛠️ Пишу чистый, поддерживаемый код с использованием **React, Node.js, PHP, Prisma ORM, PostgreSQL / MySQL**.
-* 💡 Открыт к предложениям, стажировкам и интересным pet-проектам.
+* 🎓 Passionate about web development, focusing on building scalable, modern full-stack web applications.
+* 🚀 Deepening my expertise in **Next.js, TypeScript, PHP/Laravel, REST API architecture, and database optimization**.
+* 🛠️ Dedicated to writing clean, maintainable code using **React, Node.js, PHP, Prisma ORM, and PostgreSQL / MySQL**.
+* 💡 Open to internship opportunities, entry-level positions, and collaboration on interesting pet projects.
 
 ---
 
-### 💻 Мой стек технологий
+### 💻 Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS
 * **Backend:** Node.js, Express, NestJS, PHP, Laravel
-* **Базы данных & ORM:** PostgreSQL, MySQL, Prisma ORM
-* **Инструменты & DevOps:** Git, GitHub, Docker, Figma, Postman
+* **Database & ORM:** PostgreSQL, MySQL, Prisma ORM
+* **Tools & DevOps:** Git, GitHub, Docker, Figma, Postman
 
 ---
 
-### 🚀 Проекты (Open Source / Repositories)
+### 🚀 Open Source & Key Repositories
 
-| Проект | Описание | Технологии |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | Приложение для сбора новостей (GNews, NewsAPI). Демонстрирует ООП и паттерн Factory | PHP, OOP, REST API |
-| [**CryptoApp**](https://github.com/itsnobly/CryptoApp) | Веб-приложение для отслеживания криптовалютных данных и аналитики | React, JavaScript, REST API |
-| [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Веб-приложение для публикации и управления постами | PHP, Laravel, MySQL |
-| [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Интерактивный каталог персонажей с фильтрацией и работой с REST API | React, JavaScript, REST API |
+| [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | News aggregation platform (GNews, NewsAPI) showcasing OOP and Factory Pattern | PHP, OOP, REST API |
+| [**CryptoApp**](https://github.com/itsnobly/CryptoApp) | Real-time cryptocurrency tracking dashboard with market analytics | React, JavaScript, REST API |
+| [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Web application for publishing and managing user posts | PHP, Laravel, MySQL |
+| [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Interactive character catalog featuring live filtering and REST API integrations | React, JavaScript, REST API |
 
 ---
 
 ### 🌐 Full-Stack Web Projects
 
-| Проект | Описание | Технологии |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **StreamVibe** | Платформа для стриминга медиаконтента с авторизацией и подписками | Next.js, TypeScript, Prisma, TMDB API |
-| **Estatein** | Платформа для рынка недвижимости с каталогом и фильтрацией | React, NestJS, Tailwind CSS |
-| **GetGrant** | Образовательная платформа для оформления грантов и заявок | Next.js, PostgreSQL, Prisma |
+| **StreamVibe** | Media streaming platform with user authentication and subscription management | Next.js, TypeScript, Prisma, TMDB API |
+| **Estatein** | Real estate platform featuring an interactive property catalog and advanced filtering | React, NestJS, Tailwind CSS |
+| **GetGrant** | Educational grant management system for submitting and processing applications | Next.js, PostgreSQL, Prisma |
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://t.me/itsnoblyx" target="_blank">
@@ -80,11 +82,15 @@
 
 <div align="center">
 
-### 📊 Моя статистика на GitHub
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=itsnobly&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itsnobly&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnobly&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 </div>
