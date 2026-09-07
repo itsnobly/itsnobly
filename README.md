@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋 I'm Ivan (PalladionX)
+# Hi there 👋 I'm Ivan (PalladionX) - ##Junior Full-Stack Developer
 
-### Junior Full-Stack Developer
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vcenter=true&width=500&lines=Junior+Full-Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
 
