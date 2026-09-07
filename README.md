@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Ivan (PalladionX) - ##Junior Full-Stack Developer
+# Hi there 👋 I'm Ivan (PalladionX)
 
 
 
