@@ -54,7 +54,7 @@
 | :--- | :--- | :--- |
 | **StreamVibe** | Media streaming platform with user authentication and subscription management | Next.js, TypeScript, Prisma, TMDB API |
 | **Estatein** | Real estate platform featuring an interactive property catalog and advanced filtering | React, NestJS, Tailwind CSS |
-| **GetGrant** | Educational grant management system for submitting and processing applications | Next.js, PostgreSQL, Prisma |
+| **?GetGrant?-test-abandoned project** | Educational grant management system for submitting and processing applications | Next.js, PostgreSQL, Prisma |
 
 ---
 
