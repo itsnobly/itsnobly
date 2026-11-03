@@ -2,9 +2,10 @@
 
 # Hi there 👋 I'm Ivan (PalladionX)
 
+[![English](https://img.shields.io/badge/🇬🇧_English-1f6feb?style=for-the-badge)](#english)
+[![Русский](https://img.shields.io/badge/🇷🇺_Русский-2ea44f?style=for-the-badge)](#русский)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vcenter=true&width=500&lines=Junior+Full-Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vcenter=true&width=500&lines=Junior+Full-Stack+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -19,36 +20,32 @@
 
 ---
 
+## English
+
 ### 🗣️ About Me
 
-* 🎓 Passionate about web development, focusing on building scalable, modern full-stack web applications.
+* 🎓 Passionate about web development, focused on building scalable, modern full-stack applications.
 * 🚀 Deepening my expertise in **Next.js, TypeScript, PHP, REST API architecture, and database optimization**.
-* 🛠️ Dedicated to writing clean, maintainable code using **React, Node.js, PHP, Prisma ORM, and PostgreSQL / MySQL**.
-* 💡 Open to internship opportunities, entry-level positions, and collaboration on interesting pet projects.
-* 🎧 • Vibe coding: Love catching the flow with AI assistants to build working projects quickly.
-
----
+* 🛠️ I enjoy writing clean, maintainable code with **React, Node.js, PHP, Prisma, PostgreSQL, and MySQL**.
+* 💡 Open to internship opportunities, entry-level roles, and interesting collaborations.
+* 🎧 I love getting into the flow with AI assistants and turning ideas into working projects.
 
 ### 💻 Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express, NestJS, PHP,
+* **Backend:** Node.js, Express, NestJS, PHP
 * **Database & ORM:** PostgreSQL, MySQL, Prisma ORM
 * **Tools & DevOps:** Git, GitHub, Docker, Figma, Postman
-
----
 
 ### 🚀 Open Source & Key Repositories
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | News aggregation platform (GNews, NewsAPI) showcasing OOP and Factory Pattern | PHP, OOP, REST API |
+| [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | News aggregation platform showcasing OOP and the Factory Pattern | PHP, OOP, REST API |
 | [**CryptoApp**](https://github.com/itsnobly/CryptoApp) | Real-time cryptocurrency tracking dashboard with market analytics | React, JavaScript, REST API |
 | [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Web application for publishing and managing user posts | PHP, Laravel, MySQL |
-| [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Interactive character catalog featuring live filtering and REST API integrations | React, JavaScript, REST API |
-| [**EldenRing site**](https://github.com/itsnobly/elden) | A fan-made Elden Ring website featuring atmospheric design and interactive elements | JavaScript, REST API, Vite, handlebars |
-
----
+| [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Interactive character catalog with live filtering and REST API integrations | React, JavaScript, REST API |
+| [**EldenRing site**](https://github.com/itsnobly/elden) | Fan-made Elden Ring website with atmospheric design and interactive elements | JavaScript, REST API, Vite, Handlebars |
 
 ### 🌐 Full-Stack Web Projects
 
@@ -56,27 +53,56 @@
 | :--- | :--- | :--- |
 | **StreamVibe** | Media streaming platform with user authentication and subscription management | Next.js, TypeScript, Prisma, TMDB API |
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://t.me/itsnoblyx" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:itsnoblyx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ivan-parkhaev-321831434/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### 📫 Contact
 
 * **Telegram:** [@itsnoblyx](https://t.me/itsnoblyx)
 * **Email:** [itsnoblyx@gmail.com](mailto:itsnoblyx@gmail.com)
 * **LinkedIn:** [Ivan Parkhaev](https://www.linkedin.com/in/ivan-parkhaev-321831434/)
+
+[⬆️ Back to language selection](#top) · [🇷🇺 Русский](#русский)
+
+---
+
+## Русский
+
+### 🗣️ Обо мне
+
+* 🎓 Увлечён веб-разработкой и созданием современных масштабируемых full-stack-приложений.
+* 🚀 Углубляю знания в **Next.js, TypeScript, PHP, архитектуре REST API и оптимизации баз данных**.
+* 🛠️ Люблю писать чистый и поддерживаемый код с помощью **React, Node.js, PHP, Prisma, PostgreSQL и MySQL**.
+* 💡 Открыт к стажировкам, позициям начинающего разработчика и интересному сотрудничеству.
+* 🎧 Люблю работать в потоке с AI-ассистентами и превращать идеи в готовые проекты.
+
+### 💻 Технологический стек
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express, NestJS, PHP
+* **Базы данных и ORM:** PostgreSQL, MySQL, Prisma ORM
+* **Инструменты и DevOps:** Git, GitHub, Docker, Figma, Postman
+
+### 🚀 Open Source и основные проекты
+
+| Проект | Описание | Технологии |
+| :--- | :--- | :--- |
+| [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | Агрегатор новостей, демонстрирующий ООП и паттерн Factory | PHP, ООП, REST API |
+| [**CryptoApp**](https://github.com/itsnobly/CryptoApp) | Панель для отслеживания криптовалют в реальном времени и анализа рынка | React, JavaScript, REST API |
+| [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Веб-приложение для публикации и управления пользовательскими постами | PHP, Laravel, MySQL |
+| [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Интерактивный каталог персонажей с фильтрацией и интеграцией REST API | React, JavaScript, REST API |
+| [**EldenRing site**](https://github.com/itsnobly/elden) | Фанатский сайт по Elden Ring с атмосферным дизайном и интерактивными элементами | JavaScript, REST API, Vite, Handlebars |
+
+### 🌐 Full-Stack проекты
+
+| Проект | Описание | Технологии |
+| :--- | :--- | :--- |
+| **StreamVibe** | Платформа для просмотра медиа с авторизацией пользователей и управлением подписками | Next.js, TypeScript, Prisma, TMDB API |
+
+### 📫 Контакты
+
+* **Telegram:** [@itsnoblyx](https://t.me/itsnoblyx)
+* **Email:** [itsnoblyx@gmail.com](mailto:itsnoblyx@gmail.com)
+* **LinkedIn:** [Ivan Parkhaev](https://www.linkedin.com/in/ivan-parkhaev-321831434/)
+
+[⬆️ К выбору языка](#top) · [🇬🇧 English](#english)
 
 ---
 
