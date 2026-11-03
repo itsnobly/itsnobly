@@ -45,7 +45,7 @@
 | [**CryptoApp**](https://github.com/itsnobly/CryptoApp) | Real-time cryptocurrency tracking dashboard with market analytics | React, JavaScript, REST API |
 | [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Web application for publishing and managing user posts | PHP, Laravel, MySQL |
 | [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Interactive character catalog featuring live filtering and REST API integrations | React, JavaScript, REST API |
-| [**EldenRing site**](https://github.com/itsnobly/elden) | A fan-made Elden Ring website featuring atmospheric design and interactive elements |
+| [**EldenRing site**](https://github.com/itsnobly/elden) | A fan-made Elden Ring website featuring atmospheric design and interactive elements | JavaScript, REST API, Vite, handlebars |
 
 ---
 
