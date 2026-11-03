@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Hi there 👋 I'm Ivan (PalladionX)
 
@@ -137,3 +137,4 @@
 </p>
 
 </div>
+](https://www.google.com/search?q=*+%F0%9F%8E%93+Passionate+about+web+development%2C+focusing+on+building+scalable%2C+modern+full-stack+web+applications.+*+%F0%9F%9A%80+Deepening+my+expertise+in+**Next.js%2C+TypeScript%2C+PHP%2C+REST+API+architecture%2C+and+database+optimization**.+*+%F0%9F%9B%A0%EF%B8%8F+Dedicated+to+writing+clean%2C+maintainable+code+using+**React%2C+Node.js%2C+PHP%2C+Prisma+ORM%2C+and+PostgreSQL+%2F+MySQL**.+*+%F0%9F%92%A1+Open+to+internship+opportunities%2C+entry-level+positions%2C+and+collaboration+on+interesting+pet+projects.+*+%F0%9F%A4%96+%D0%BE%D0%BF%D0%B8%D0%B8%D1%88%D0%B8+%D0%BA%D0%BE%D0%BD%D0%B5%D1%86&sca_esv=3f27a2878a118973&sxsrf=AKL5yDhtWvO6ogX7Ya1_stCodAoZAbXNRA%3A1793717667716&source=chrome.ob&fbs=ACAhTvwPTT8IwtY0oSeB_fWN33wW9l-FJwCkCZ5wniw5QNZtL3XR5PYfOPntcNo3ODU-duyAACzRwq_dutGUj-ZY6qjvdLJFS6NpnZMS52Q795M95Pu7jKv9O5_ABr5Zq3DLUNDN-dnBboBPXatCreIy2YTRW7VgWt4aqgHc7x37ob0yQoXUUnMHGZmv0pU3vMJRkRmHveznJc7DuwKAyFAsz7ROq7HQYc1VDYtzo8aRGwia7B5LAAhM6Gmm7QoONbttTMbdDbha&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiw6KSDh-yXAxWpVvEDHf08NWwQ2J8OegQIFRAD&biw=1745&bih=901&dpr=1.1&mstk=AUtExfCjjxfr4K1e2R-6FI02TCuLPBF1iFtlCYJEOYDCgAggQ_Y-amcA5VGj1GcpViKenJbsALcCYCUgsf3WuL0nxr9hreHtpT0qRFt02kgm4XltwwfsoP3D0jEOVeQPcVXHMa-I91kuKdpHv30ccZb5ApWR8Td4bG7y-j30QAvSBuN4zPyXTzXNM-XeDvlzqxj29h6iOQCUbiIEY5Q1Pi_lblz_sWfXdC5qkvRvM1Z92G4v0ukBZKAMIP9mY9ySEFOHGtYY4fPtUXo7R0vcHlbWUcXLe8NbdhBsMBJrRvEeFinycZtjTqL3d31tnB4Ed3U6xnHqcLxhJqueTw&csuir=1&mtid=qPXpavaiB4Tixc8P3qTkyQY&udm=50)
