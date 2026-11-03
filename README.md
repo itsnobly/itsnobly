@@ -102,7 +102,6 @@
 * **Email:** [itsnoblyx@gmail.com](mailto:itsnoblyx@gmail.com)
 * **LinkedIn:** [Ivan Parkhaev](https://www.linkedin.com/in/ivan-parkhaev-321831434/)
 
-[⬆️ К выбору языка](#top) · [🇬🇧 English](#english)
 
 ---
 
