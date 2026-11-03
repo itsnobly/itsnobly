@@ -1,5 +1,4 @@
 <div align="center">
-<a id="top"></a>
 # Hi there 👋 I'm Ivan (PalladionX)
 
 [![English](https://img.shields.io/badge/🇬🇧_English-1f6feb?style=for-the-badge)](#english)
@@ -21,6 +20,7 @@
 ---
 
 ## English
+<a id="top" name="top"></a>
 [⬆️ Back to language selection](#top) · [🇷🇺 Русский](#русский)
 
 ### 🗣️ About Me
