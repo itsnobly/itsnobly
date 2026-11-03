@@ -21,6 +21,7 @@
 ---
 
 ## English
+[⬆️ Back to language selection](#top) · [🇷🇺 Русский](#русский)
 
 ### 🗣️ About Me
 
@@ -59,7 +60,6 @@
 * **Email:** [itsnoblyx@gmail.com](mailto:itsnoblyx@gmail.com)
 * **LinkedIn:** [Ivan Parkhaev](https://www.linkedin.com/in/ivan-parkhaev-321831434/)
 
-[⬆️ Back to language selection](#top) · [🇷🇺 Русский](#русский)
 
 ---
 
