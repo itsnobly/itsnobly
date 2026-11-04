@@ -42,9 +42,9 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**EldenRing site**](https://github.com/itsnobly/elden) | Fan-made Elden Ring website with video and interactive elements | JavaScript, Vite, Handlebars, JSON |
+| [**EldenRing site**](https://github.com/itsnobly/elden) · [Demo](https://elden-omega.vercel.app/) | Fan-made Elden Ring website with video and interactive elements | JavaScript, Vite, Handlebars, JSON 
 | [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Character catalog using the public Rick and Morty API | React, REST API |
-| [**random-joke-generator**](https://github.com/itsnobly/random-joke-generator) | Random joke generator using an external API | HTML, CSS, JavaScript |
+| [**random-joke-generator**](https://github.com/itsnobly/random-joke-generator) · [Demo](https://itsnobly.github.io/random-joke-generator/) | Random joke generator using an external API | HTML, CSS, JavaScript |
 | [**CryptoApp**](https://github.com/itsnobly/CryptoApp) · [Demo](https://crypto-app-two-plum.vercel.app/) | Portfolio tracker: add assets manually, see live prices from CoinGecko, profit/loss and charts. No wallet integration or login | React, Vite, Ant Design, Context API, CoinGecko API |
 | [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | Learning project: news from several sources in plain PHP (OOP, Factory pattern) | PHP |
 | [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Learning project: publishing posts | PHP, Laravel |
@@ -79,9 +79,9 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| [**EldenRing site**](https://github.com/itsnobly/elden) | Фанатский сайт по Elden Ring с видео и интерактивными элементами | JavaScript, Vite, Handlebars, JSON |
+| [**EldenRing site**](https://github.com/itsnobly/elden) · [Demo](https://elden-omega.vercel.app/) | Фанатский сайт по Elden Ring с видео и интерактивными элементами | JavaScript, Vite, Handlebars, JSON |
 | [**Rick and Morty React**](https://github.com/itsnobly/Rick-and-Morty.React) | Каталог персонажей на основе публичного API Rick and Morty | React, REST API |
-| [**random-joke-generator**](https://github.com/itsnobly/random-joke-generator) | Генератор случайных шуток через внешний API | HTML, CSS, JavaScript |
+| [**random-joke-generator**](https://github.com/itsnobly/random-joke-generator) · [Demo](https://itsnobly.github.io/random-joke-generator/) | Генератор случайных шуток через внешний API | HTML, CSS, JavaScript |
 | [**CryptoApp**](https://github.com/itsnobly/CryptoApp) · [Demo](https://crypto-app-two-plum.vercel.app/) | Трекер портфеля: активы добавляются вручную, цены с CoinGecko обновляются автоматически, считаются прибыль/убыток, есть графики. Без кошелька и авторизации | React, Vite, Ant Design, Context API, CoinGecko API |
 | [**PHP-News-Aggregator**](https://github.com/itsnobly/PHP-News-Aggregator) | Учебный проект: новости из нескольких источников на чистом PHP (ООП, паттерн Factory) | PHP |
 | [**Laravel-Posts**](https://github.com/itsnobly/Laravel-Posts) | Учебный проект: публикация постов | PHP, Laravel |
