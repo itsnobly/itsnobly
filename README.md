@@ -1,18 +1,20 @@
 <a id="top" name="top"></a>
 <div align="center">
 
-# Hi there 👋 I'm Ivan (PalladionX)
+## Hi there 👋 I'm Ivan (PalladionX)
 
 [![English](https://img.shields.io/badge/🇬🇧_English-1f6feb?style=for-the-badge)](#english)
 [![Русский](https://img.shields.io/badge/🇷🇺_Русский-2ea44f?style=for-the-badge)](#русский)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vcenter=true&width=500&lines=Junior+Frontend+Developer+(learning);HTML+%7C+CSS+%7C+JavaScript)](https://git.io/typing-svg)
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+
 
 </div>
 
