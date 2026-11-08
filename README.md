@@ -34,9 +34,9 @@
 
 ### 💻 Tech Stack
 
-* **I use:** HTML5, CSS3, JavaScript (ES6+), Git, GitHub, DOM, fetch / REST API, JSON, localStorage, npm, Vite (basics)
-* **Basics / learning:** PHP (OOP, Laravel basics), React
-* **Planned:** TypeScript, Node.js
+* **I use:** HTML5, CSS3, JavaScript (ES6+), Git, TailwindCss
+* **Basics / learning:** PHP (OOP basic), React
+* **Planned:** TypeScript, Node, Next.Js
 
 ### 🚀 Projects
 
